@@ -21,7 +21,9 @@ infrastructure, and habits.
 
 ## Archived versions
 
-Note about archived versions: Each presentation is slightly different, and they do not necessarily replace each other. They are simply chronologically registered on Zenodo for archival purposes.
+Note about archived versions: Each presentation is slightly different, and they do not necessarily replace each other. They are simply chronologically registered on Zenodo for archival purposes. The latest version can be found [here](https://doi.org/10.5281/zenodo.3662906).
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3662906.svg)](https://doi.org/10.5281/zenodo.3662906)
 
 # Presentations
 
