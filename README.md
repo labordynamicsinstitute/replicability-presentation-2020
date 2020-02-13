@@ -26,4 +26,6 @@ Note about archived versions: Each presentation is slightly different, and they 
 # Presentations
 
 
- + [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3662907.svg)](https://doi.org/10.5281/zenodo.3662907) [2020-02-07](https://doi.org/10.5281/zenodo.3662907): Urban Institute, Washington DC
++ [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3662907.svg)](https://doi.org/10.5281/zenodo.3662907) [2020-02-07](https://doi.org/10.5281/zenodo.3662907): Urban Institute, Washington DC
+
++ [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3666011.svg)](https://doi.org/10.5281/zenodo.3666011) [2020-02-12](https://doi.org/10.5281/zenodo.3666011): Workshop on Open Science and Research Reproducibility (HEC Paris) 
