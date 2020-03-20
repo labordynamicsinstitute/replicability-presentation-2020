@@ -34,3 +34,8 @@ Note about archived versions: Each presentation is slightly different, and they 
 
 
 + [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3677115.svg)](https://doi.org/10.5281/zenodo.3677115) [2020-02-14](https://doi.org/10.5281/zenodo.3677115) (10min version): Workshop on Love Your Code (UKDS - ONS - London, UK) 
+
+
++ [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3719355.svg)](https://doi.org/10.5281/zenodo.3719355) [2020-03-20](https://doi.org/10.5281/zenodo.3719355): [TIER Spring 2020 Webcast Series on](https://www.projecttier.org/fellowships-and-workshops/weekly-webcast-leaders-research-transparency/)
+
+
