@@ -4,7 +4,7 @@
 
 - Presenter: Lars Vilhuber
 - Date and Time: April 1, 10:30-12:00 Eastern Time
-- Registration: (LINK)
+- Registration is required: **(LINK)**
 
 > Please forward the registration link only within your organization, as space is limited.
 
