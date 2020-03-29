@@ -1,9 +1,9 @@
 ![header](assets/banner-1280.png)
 
-#  Implementing Increased Transparency, and Reproducibility in Economics
+#  Implementing Increased Transparency and Reproducibility in Economics
 
-- Presenter: Lars Vilhuber
-- Date and Time: April 1, 10:30-12:00 Eastern Time
+- Presenter: **Lars Vilhuber**
+- Date and Time: **April 1, 10:30-12:00 Eastern Time**
 - Registration is required: **(LINK)**
 
 > Please forward the registration link only within your organization, as space is limited.
