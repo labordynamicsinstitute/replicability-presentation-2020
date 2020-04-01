@@ -1,4 +1,6 @@
-#  Implementing Increased Transparency, and Reproducibility in Economics
+#  Implementing Increased Transparency and Reproducibility in Economics
+
+![Title page](assets/title.png)
 
 ## Abstract
 
@@ -39,3 +41,7 @@ Note about archived versions: Each presentation is slightly different, and they 
 + [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3719355.svg)](https://doi.org/10.5281/zenodo.3719355) [2020-03-20](https://doi.org/10.5281/zenodo.3719355): [TIER Spring 2020 Webcast Series on](https://www.projecttier.org/fellowships-and-workshops/weekly-webcast-leaders-research-transparency/)
 
 + [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3735536.svg)](https://doi.org/10.5281/zenodo.3735536) [2020-04-01](https://doi.org/10.5281/zenodo.3735536): Cornell University Webinar together with BITSS.
+
+## [License](License.md)
+
+[![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc/4.0/)
